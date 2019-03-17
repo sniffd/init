@@ -1,0 +1,1 @@
+ifconfig | grep en0: -A5 | grep "inet " | cut -d ' ' -f2

@@ -1,0 +1,1 @@
+pkill -u username && sudo userdel -f username

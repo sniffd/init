@@ -1,0 +1,8 @@
+first of all, I create a new user "test"
+sudo adduser test
+then log in
+sudo login test
+
+---
+
+first of all, again, create a new user. Then log out and log in;
