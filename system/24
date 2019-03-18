@@ -1,1 +1,3 @@
 dpkg-query -l
+or
+apt list
