@@ -1,2 +1,2 @@
-ls /etc/*.d
+systemctl list-unit-files --type=service --state=enabled
 daemons

@@ -1,1 +1,1 @@
-systemctl status | grep 'Main PID' | cut -d ' ' -f4
+systemctl status ssh.service | grep 'Main PID' | cut -d ' ' -f4
